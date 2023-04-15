@@ -1,0 +1,15 @@
+* {
+    background: rgb(0, 0, 0);
+}
+
+.Logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.Logo img {
+    max-width: 100%;
+    max-height: 100%;
+}
